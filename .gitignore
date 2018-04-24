@@ -1,0 +1,6 @@
+task/py3env
+test
+web/vendor
+web/storage
+task/logs
+web/public/info
